@@ -1,0 +1,8 @@
+[component]
+name = "user-manager"
+version = "0.1.0"
+category = "system"
+description = "User and group management with capability-aware privilege model"
+maintainer = "AaryanSinghChauhan09"
+license = "GPL-3.0-or-later"
+rolling = true
